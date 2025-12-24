@@ -115,8 +115,8 @@ selon les tables accessibles.
 ## 🛠️ Technologies utilisées
 - **Base de données** : Oracle SQL
 - **Langage procédural** : PL/SQL
-- **Backend** : Flask (Python)
-- **Frontend (prévu)** : HTML5 + Tailwind CSS
+- **Backend** : FastApi (Python)
+- **Frontend** : 
 - **Automatisation** : Triggers, procédures, fonctions, transactions
 
 ---
